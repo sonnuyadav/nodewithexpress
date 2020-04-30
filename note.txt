@@ -1,0 +1,5 @@
+npm install -g pm2 
+Is a cluster management system 
+
+how to use
+pm2 start index.js -i 0
